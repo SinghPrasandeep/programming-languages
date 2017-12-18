@@ -1,0 +1,8 @@
+advice You Will Wish You Followed!
+
+In each REPL session, follow this pattern:
+
+    First type use "foo.sml"; for any SML files you want to use.
+    Then use the REPL manually as long as you wish.
+    After using the REPL to test something, do not use use to load (or reload) any more files.
+    When tempted to violate the previous point, end and restart your REPL session before continuing.
